@@ -17,7 +17,7 @@ class IfElse{
         }
     }
 }
-*/
+
 
 //CW4: WAP to read 3 numbers from command line and print the largest number.
 
@@ -39,5 +39,23 @@ class  LargestNumber{
             largest = num3;
         }
         System.out.println("The largest number is: " + largest);
+    }
+}
+    */
+
+//CW5: WAP to print Hello World 10 times without using loop.
+
+public class HelloWorld {
+    public static void main(String[] args){ 
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
     }
 }
