@@ -1,4 +1,4 @@
-//guess the num and show if the guess is low or high
+//guess the num and show if the guess is low or high in 10 attempt
 import java.util.Scanner;
 
 public class GuessNum{
